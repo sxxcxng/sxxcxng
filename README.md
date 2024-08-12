@@ -1,6 +1,7 @@
-![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxxcxng\&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxcxng&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sxxcxng&rank_icon=github" alt="Soobin's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxcxng&layout=compact" alt="Top Langs">
+</div>
 
 <!--
 **sxxcxng/sxxcxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
